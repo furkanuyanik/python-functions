@@ -7,4 +7,4 @@ def create_directory(directory_name):
   else:    
     print("Directory ", directory_name,  " already exists.")
 
-create_directory("example")
+create_directory("furkan-uyanik")
