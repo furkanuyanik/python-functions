@@ -29,35 +29,44 @@ Python Functions
 
 ### Documentation
     ├── python-functions
+    |   
     │   ├── data-analysis
+    │   │ 
     │   │   ├── feature-selection
     │   │   │   ├── entropy.py
     │   │   │   ├── feature-importance.py
     │   │   │   ├── pearson-correlation.py
     │   │   │   ├── univariate-selection.py
     |   |   └──
+    |   |
     │   │   ├── normalization
     │   │   │   ├── min-max-normalization.py
     |   |   └──
+    |   |  
     │   │   ├── oversampling
     │   │   │   ├── adasyn.py
     │   │   │   ├── random-oversampling.py
     │   │   │   ├── smote.py
     |   |   └──
     |   └──
+    |
     │   ├── deep-learning     
     │   │   ├── artificial-neural-network.py
     |   └──
+    |
     │   ├── file-io        
     │   │   ├── create-directory.py
     │   │   ├── get-file-names-in-directory.py
     │   │   ├── write-file.py
     |   └──
-    │   ├── machine-learning      
+    |
+    │   ├── machine-learning   
+    |   |
     │   │   ├── base-classification
     │   │   │   ├── decision-tree.py
     │   │   │   ├── logistic-regression.py
     |   |   └──
+    |   |  
     │   │   ├── ensemble-classification 
     │   │   │   ├── adaboost-adaptive-boosting.py
     │   │   │   ├── bagging.py
@@ -69,6 +78,7 @@ Python Functions
     │   │   │   ├── xgboost-extreme-gradient-boosting.py
     |   |   └──
     |   └──
+    |
     │   ├── natural-language-processing  
     │   │   ├── get-frequency-of-the-word-in-sentence.py
     │   │   ├── get-stemming-words.py
