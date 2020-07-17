@@ -20,7 +20,7 @@ Python Functions
 [LightGBM](https://github.com/furkanuyanik/python-functions/blob/master/machine-learning/ensemble-classification/lightgbm-light-gradient-boosting-machine.py) `ensemble-classification`, 
 [Random Forest](https://github.com/furkanuyanik/python-functions/blob/master/machine-learning/ensemble-classification/random-forest.py) `ensemble-classification`, 
 [XGBoost](https://github.com/furkanuyanik/python-functions/blob/master/machine-learning/ensemble-classification/xgboost-extreme-gradient-boosting.py) `ensemble-classification`, 
-[Compute Frequency of the in sentence](https://github.com/furkanuyanik/python-functions/blob/master/natural-language-processing/get-frequency-of-the-word-in-sentence.py) `nlp`, 
+[Compute Frequency of the in Sentence](https://github.com/furkanuyanik/python-functions/blob/master/natural-language-processing/get-frequency-of-the-word-in-sentence.py) `nlp`, 
 [Detect Stemming-Words](https://github.com/furkanuyanik/python-functions/blob/master/natural-language-processing/get-stemming-words.py) `nlp`, 
 [Detect Stop-Words](https://github.com/furkanuyanik/python-functions/blob/master/natural-language-processing/get-stop-words.py) `nlp`, 
 [Detect Duplicated Words](https://github.com/furkanuyanik/python-functions/blob/master/natural-language-processing/remove-duplicated-words.py) `nlp`, 
@@ -33,59 +33,57 @@ Python Functions
     │   ├── data-analysis
     │   │ 
     │   │   ├── feature-selection
-    │   │   │   ├── entropy.py
-    │   │   │   ├── feature-importance.py
-    │   │   │   ├── pearson-correlation.py
-    │   │   │   ├── univariate-selection.py
+    │   │   │   ├── Entropy
+    │   │   │   ├── Feature Importance
+    │   │   │   ├── Pearson Correlation
+    │   │   │   ├── Univariate Selection
     |   |   └──
     |   |
-    │   │   ├── normalization
-    │   │   │   ├── min-max-normalization.py
+    │   │   ├── Normalization
+    │   │   │   ├── Min-Max Normalization
     |   |   └──
     |   |  
     │   │   ├── oversampling
-    │   │   │   ├── adasyn.py
-    │   │   │   ├── random-oversampling.py
-    │   │   │   ├── smote.py
+    │   │   │   ├── ADASYN
+    │   │   │   ├── Random Oversampling
+    │   │   │   ├── SMOTE
     |   |   └──
     |   └──
     |
     │   ├── deep-learning     
-    │   │   ├── artificial-neural-network.py
+    │   │   ├── Artificial Neural Network
     |   └──
     |
     │   ├── file-io        
-    │   │   ├── create-directory.py
-    │   │   ├── get-file-names-in-directory.py
-    │   │   ├── write-file.py
+    │   │   ├── Create Directory
+    │   │   ├── Get File Names in Directory
+    │   │   ├── Write File
     |   └──
     |
     │   ├── machine-learning   
     |   |
     │   │   ├── base-classification
-    │   │   │   ├── decision-tree.py
-    │   │   │   ├── logistic-regression.py
+    │   │   │   ├── Decision Tree
+    │   │   │   ├── Logistic Regression
     |   |   └──
     |   |  
     │   │   ├── ensemble-classification 
-    │   │   │   ├── adaboost-adaptive-boosting.py
-    │   │   │   ├── bagging.py
-    │   │   │   ├── catboost-category-gradient-boosting.py
-    │   │   │   ├── gradient-boosting.py
-    │   │   │   ├── histogram-based-gradient-boosting.py
-    │   │   │   ├── light-machine-gradient-boosting.py
-    │   │   │   ├── random-forest.py
-    │   │   │   ├── xgboost-extreme-gradient-boosting.py
+    │   │   │   ├── AdaBoost.py
+    │   │   │   ├── Bagging.py
+    │   │   │   ├── CatBoost
+    │   │   │   ├── Gradient Boosting
+    │   │   │   ├── Histogram-Based Gradient Boosting
+    │   │   │   ├── LightGBM
+    │   │   │   ├── Random Forest
+    │   │   │   ├── XGBoost
     |   |   └──
     |   └──
     |
     │   ├── natural-language-processing  
-    │   │   ├── get-frequency-of-the-word-in-sentence.py
-    │   │   ├── get-stemming-words.py
-    │   │   ├── get-stop-words.py
-    │   │   ├── get-tokens-words-and-sentences.py
-    │   │   ├── remove-duplicated-words.py
-    │   │   ├── remove-special-characters.py
-    │   │   ├── remove-synonym-words.py
+    │   │   ├── Compute Frequency of the in Sentence
+    │   │   ├── Detect/Remove Stemming-Words
+    │   │   ├── Detect/Remove Stop-Words.py
+    │   │   ├── Get Tokens Words and Sentences
+    │   │   ├── Detect/Remove Synonym-Words
     |   └──
     └── 
